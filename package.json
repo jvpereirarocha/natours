@@ -4,11 +4,12 @@
   "description": "Natours project to improve CSS skills",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"hello world\" && exit 0"
+    "sass-compile": "node-sass sass/main.scss css/style.css --w"
   },
   "author": "Joao Rocha",
   "license": "MIT",
   "devDependencies": {
+    "live-server": "^1.2.1",
     "node-sass": "^5.0.0"
   }
 }
