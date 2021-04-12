@@ -1,0 +1,14 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Natours project to improve CSS skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello world\" && exit 0"
+  },
+  "author": "Joao Rocha",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
